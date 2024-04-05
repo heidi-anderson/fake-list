@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/list_fake.dir/main.cpp.o -o list_fake 
